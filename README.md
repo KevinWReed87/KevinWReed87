@@ -15,8 +15,7 @@ kevinreed87">IT Professional</a>☺</h1>
 
 [<img align="left" alt="Kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]:www.linkedin.com/in/
-kevin-reed-b52994267
+[linkedin]: https://linkedin.com/in/kevinreed87
 
 
 
