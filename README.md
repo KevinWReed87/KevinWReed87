@@ -8,7 +8,7 @@ kevinreed87">IT Professional</a></h1>
   - [osTicket: Post-Installation Configuration](https://github.com/KevinWReed87/post-install-config.git)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/KevinWReed87/ticket-lifecycle.git)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/KevinWReed87/-configure-ad.git)
+  - [Configuring Active Directory within Azure VMs](https://github.com/KevinWReed87/-configure-ad.git)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/KevinWReed87/azure-network-protocols.git)
   - [Virtual Private Networks](https://github.com/KevinWReed87/Virtual-Private-Networks.git)
 
